@@ -12,5 +12,5 @@ However, this suggested use of AI in ELA classrooms has not been empirically tes
 
 ## Link to Web Application
 You can test the tutoring application I designed with Claude by clicking the link below. You will need to sign up or log in with Claude in order to use the app. Never share personal information in your conversations with the tutor.
-[Test Reid on Claude]https://claude.ai/public/artifacts/d6830648-0076-49fe-9692-1a1afed9baff
+[Try Reid!](https://claude.ai/public/artifacts/d6830648-0076-49fe-9692-1a1afed9baff)
 
