@@ -1,5 +1,5 @@
 # ELA-Tutor-Agent-System-Prompting-Experiment
-This repository contains the files associated with experiment to use system prompting to transform an AI assistant (Claude, ChatGPT, or Gemini) into a specialized English Language Arts (ELA) tutor that can conduct a conversation about a given text with middle school students (U.S. Grades 6-8).
+This repository contains the files associated with experiment to use system prompting to transform an AI assistant (Claude, ChatGPT, or Gemini) into a specialized English Language Arts (ELA) tutor that can conduct a conversation about a given text with middle school students (U.S. Grades 6-8). This specialized tutoring assistant is called "Reid."
 
 ## Context
 A central goal in secondary English Language Arts (ELA) education is to help students reach a benchmark proficiency level in reading comprehension, critical literary analysis, and written communication skills. As of 2024, however, the percentage of eighth-grade students who performed at or above the national proficiency benchmark in the U.S. was just 30%. This indicates an urgent need to improve ELA education, which is the goal of many dedicated teachers. 
@@ -11,6 +11,6 @@ The biggest issue here is that AI tools are being used to generate content rathe
 However, this suggested use of AI in ELA classrooms has not been empirically tested, as far as I can tell. Thus, for this project I am designing an applied experiment to put this use to the test. I am attempting to build an AI agent via prompt engineering which can be used as a discussion partner in middle school ELA classrooms. It should be responsive to the individual student’s level of comprehension and engagement; it should encourage critical, thoughtful responses; and it should flat-out refuse to give easy answers to students if asked. Furthermore, it should utilize evidence-based approaches to classroom discussion from the domain of educational pedagogy. I will engage with the agent in repeat trials as various simulated student personas in order to test its effectiveness. Then, I will evaluate its performance.
 
 ## Link to Web Application
-You can test the tutoring application I designed with Claude by clicking the link below. You will need to sign up or log in with Claude in order to use the app. Never share personal information in your conversations with the tutor.
+You can test out Reid for yourself by viewing this React application I designed with Claude. You will need to sign up or log in with Claude in order to use the app. Never share personal information in your conversations with the tutor.
 [Try Reid!](https://claude.ai/public/artifacts/d6830648-0076-49fe-9692-1a1afed9baff)
 
